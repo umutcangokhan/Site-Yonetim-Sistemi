@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\ders notlar\u0131\\c\u002B\u002B\\PG PROJE123\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E24E49-AA95-45F1-8D1B-9B034F19E1EA}|PG PROJE123\\PG PROJE123.vcxproj|C:\\Users\\Dell\\Desktop\\ders notlar\u0131\\c\u002B\u002B\\PG PROJE123\\PG PROJE123\\Site Y\u00F6netim Sistemi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2E24E49-AA95-45F1-8D1B-9B034F19E1EA}|PG PROJE123\\PG PROJE123.vcxproj|solutionrelative:PG PROJE123\\Site Y\u00F6netim Sistemi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site Y\u00F6netim Sistemi.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\ders notlar\u0131\\c\u002B\u002B\\PG PROJE123\\PG PROJE123\\Site Y\u00F6netim Sistemi.cpp",
+              "RelativeDocumentMoniker": "PG PROJE123\\Site Y\u00F6netim Sistemi.cpp",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\ders notlar\u0131\\c\u002B\u002B\\PG PROJE123\\PG PROJE123\\Site Y\u00F6netim Sistemi.cpp",
+              "RelativeToolTip": "PG PROJE123\\Site Y\u00F6netim Sistemi.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-30T08:39:02.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

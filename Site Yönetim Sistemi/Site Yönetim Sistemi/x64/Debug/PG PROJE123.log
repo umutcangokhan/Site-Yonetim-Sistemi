@@ -1,0 +1,15 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Ara dizin (x64\Debug\) başka bir projeden (PG PROJE123.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  Site Yönetim Sistemi.cpp
+C:\Users\Dell\Desktop\ders notları\c++\PG PROJE123\PG PROJE123\Site Yönetim Sistemi.cpp(146,26): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Dell\Desktop\ders notları\c++\PG PROJE123\PG PROJE123\Site Yönetim Sistemi.cpp(191,26): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Dell\Desktop\ders notları\c++\PG PROJE123\PG PROJE123\Site Yönetim Sistemi.cpp(237,30): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Dell\Desktop\ders notları\c++\PG PROJE123\PG PROJE123\Site Yönetim Sistemi.cpp(260,26): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Dell\Desktop\ders notları\c++\PG PROJE123\PG PROJE123\Site Yönetim Sistemi.cpp(282,43): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Dell\Desktop\ders notları\c++\PG PROJE123\PG PROJE123\Site Yönetim Sistemi.cpp(292,26): warning C4804: '<' : işlemde güvenli olmayan 'bool' türü kullanımı
+C:\Users\Dell\Desktop\ders notları\c++\PG PROJE123\PG PROJE123\Site Yönetim Sistemi.cpp(292,29): warning C4804: '<=' : işlemde güvenli olmayan 'bool' türü kullanımı
+C:\Users\Dell\Desktop\ders notları\c++\PG PROJE123\PG PROJE123\Site Yönetim Sistemi.cpp(332,25): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Dell\Desktop\ders notları\c++\PG PROJE123\PG PROJE123\Site Yönetim Sistemi.cpp(355,34): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Dell\Desktop\ders notları\c++\PG PROJE123\PG PROJE123\Site Yönetim Sistemi.cpp(374,34): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Dell\Desktop\ders notları\c++\PG PROJE123\PG PROJE123\Site Yönetim Sistemi.cpp(393,34): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Dell\Desktop\ders notları\c++\PG PROJE123\PG PROJE123\Site Yönetim Sistemi.cpp(421,34): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  PG PROJE123.vcxproj -> C:\Users\Dell\Desktop\ders notları\c++\PG PROJE123\x64\Debug\Site Yönetim Sistemi.exe

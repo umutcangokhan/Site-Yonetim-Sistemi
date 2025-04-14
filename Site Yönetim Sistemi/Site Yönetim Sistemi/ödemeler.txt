@@ -1,0 +1,3 @@
+Daire 1'dan 1000TL baþarýyla ödendi.
+Kalan borç: 0
+
